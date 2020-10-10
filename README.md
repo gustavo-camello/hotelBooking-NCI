@@ -10,7 +10,7 @@ It was a group project, developed by me (Gustavo Camello), Daniel Pinton e Dougl
 The application itself, its a simple hotel booking, where you can check the prices for a booking,
 basead in how many nights, number of bedrooms and bathrooms.
 
-The grade achieved (0-100): ##71.2
+## The grade achieved (0-100): 71.2
 
 ## Built with
 - Java
@@ -24,5 +24,5 @@ Douglas Mazotti - X18151493@student.ncirl.ie
 
 ## Application's Images
 
-![./img-1.png](./img1.png)
-![./img-2.png](./img2.png)
+![img-1.png](img1.png)
+![img-2.png](img2.png)
