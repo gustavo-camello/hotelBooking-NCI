@@ -18,9 +18,9 @@ basead in how many nights, number of bedrooms and bathrooms.
 
 ## Contact
 
-Gustavo Camello - x18119956@student.ncirl.ie
-Daniel Pinton - X18159982@student.ncirl.ie
-Douglas Mazotti - X18151493@student.ncirl.ie
+- Gustavo Camello - x18119956@student.ncirl.ie
+- Daniel Pinton - X18159982@student.ncirl.ie
+- Douglas Mazotti - X18151493@student.ncirl.ie
 
 ## Application's Images
 
