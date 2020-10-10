@@ -24,5 +24,5 @@ Douglas Mazotti - X18151493@student.ncirl.ie
 
 ## Application's Images
 
-![img-1.png](img1.png)
-![img-2.png](img2.png)
+![img-1.png](img-1.png)
+![img-2.png](img-2.png)
